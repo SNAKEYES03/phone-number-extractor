@@ -52,7 +52,6 @@ phone-number-extractor/
 │── images/              # input images
 │── output.txt           # generated output
 │── requirements.txt
-│── README.md
 ```
 
 ---
