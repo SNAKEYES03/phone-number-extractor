@@ -11,3 +11,7 @@ Extracts Indian phone numbers (+91 XXXXX XXXXX) from images using OCR.
 ## Installation
 ```bash
 pip install -r requirements.txt
+
+## Usage
+'''bash
+python tool.py --input images
